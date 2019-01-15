@@ -1,6 +1,6 @@
-token= NTIxNTk5Njk0MTAzNjQyMTEz.Dx80aw.rmcpCfGU-CJSwwK2txxpYTaVKEA
-owner= 410032227490201620 
-prefix= 2
-game= 2Help | 2Play 
+token=NTIxNTk5Njk0MTAzNjQyMTEz.Dx80aw.rmcpCfGU-CJSwwK2txxpYTaVKEA
+owner=410032227490201620 
+prefix=2
+game=2Help | 2Play 
 stayinchannel=true 
 songinstatus=true
