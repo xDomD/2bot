@@ -1,6 +1,6 @@
-token=NTIxNTk5Njk0MTAzNjQyMTEz.Dx80aw.rmcpCfGU-CJSwwK2txxpYTaVKEA
+token=NTIxNTk5Njk0MTAzNjQyMTEz.Xjsy8Q.s_-H_9DDnrzp0_5MFAbT9CPaAwY
 owner= 560436523246551040
-prefix=2
-game=2Help | 2Play 
+prefix=Bitch 
+game=Bitch Help | Bitch Play 
 stayinchannel=true 
 songinstatus=true
